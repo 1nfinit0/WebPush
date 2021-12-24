@@ -52,7 +52,7 @@ main {
     background-color: #2E0F15;
     display: flex;
     width: 100%;
-    height: 50vh;
+    height: 70vh;
     justify-content: center;
     align-items: center;
 }
@@ -66,7 +66,7 @@ main p {
 footer {
     display: flex;
     width: 100%;
-    height: 25vh;
+    height: auto;
     justify-content: space-between;
     align-items: center;
     flex-direction: column;
